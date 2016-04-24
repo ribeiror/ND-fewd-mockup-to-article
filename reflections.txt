@@ -1,0 +1,24 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+- I basically learned the importance of analyzing mockups in detail, identify their visual elements and match it with html, the importance of doing researches in MDN, it was very useful because there are tags html that do the same but have their own semantic purpose and finally doing changes one by one, testing and refining this process til meet expected results.
+
+- For me has been easy applying html for headers, paragraphs and links, i just doubted a bit if horizontal line requires a close tag. But after researching in MDN it was clear for me.
+
+- I wouldn't say difficult but the the way of emphasizing text content with semantic tag and the handle of image with figure tag is something new for me and represents a new way of thinking in html.
+
+- First of all, breaking problem into parts:
+	- what do i have to solve?
+		- Translate a mockup into a web page.
+	What tools should i use?
+		- An html editor in this case Atom and an image viewer
+	- What to do when doubts arises?
+		- Researches in MDN have helped me
+
+	Doing questions and trying answering since the beginning has been useful to overcome challenges.
